@@ -18,6 +18,10 @@ VB.NET class library with a Readify-style coding puzzle: `Puzzle1.ElementFromLin
 
 Open `Readify Puzzles.sln` in Visual Studio 2010 or later.
 
+## Requirements
+
+- Visual Studio 2010, .NET Framework 3.5, .NET Framework 4.0
+
 ## Attribution and provenance
 
 From Dave Robinson's Historical Dev archive (OneDrive folder `Readify Puzzles`). Assembly copyright 2013 is not used; Puzzles assembly copyright is 2011.
