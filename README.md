@@ -24,6 +24,8 @@ Open `Readify Puzzles.sln` in Visual Studio 2010 or later.
 
 ## Attribution and provenance
 
+Working copy from my Historical Dev folder.
+
 From Dave Robinson's Historical Dev archive (OneDrive folder `Readify Puzzles`). Assembly copyright 2013 is not used; Puzzles assembly copyright is 2011.
 
 ## License
